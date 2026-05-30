@@ -1,0 +1,10 @@
+#include "SnakeGame.h"
+
+int main()
+{
+	SnakeGame snakeGame;
+	snakeGame.Start();
+
+
+	return 0;
+}
